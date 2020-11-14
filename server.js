@@ -11,7 +11,7 @@ app.get('/api/customers', (req, res) => {
         [
             {
               'id': 1,
-              'img': 'https://placeimg.com/100/100/any',
+              'img': 'https://placeimg.com/100/100/1',
               'name': '이민아',
               'birthday': '921212',
               'gender': '여성',
@@ -19,7 +19,7 @@ app.get('/api/customers', (req, res) => {
             },
             {
               'id': 2,
-              'img': 'https://placeimg.com/100/100/any',
+              'img': 'https://placeimg.com/100/100/2',
               'name': '박병인',
               'birthday': '961212',
               'gender': '남자',
@@ -27,7 +27,7 @@ app.get('/api/customers', (req, res) => {
             },
             {
               'id': 3,
-              'img': 'https://placeimg.com/100/100/any',
+              'img': 'https://placeimg.com/100/100/3',
               'name': '김성진',
               'birthday': '891212',
               'gender': '남자',
